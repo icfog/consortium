@@ -27,7 +27,7 @@ github_username:  icfog
 twitter_username: fogconsortium
 
 # Build settings
-theme: jekyll-theme-minimal
+theme: minima
 plugins:
   - jekyll-feed
   - jekyll-sitemap
