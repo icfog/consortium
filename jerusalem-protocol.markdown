@@ -99,7 +99,24 @@ Refer to the image below to identify equipment needed:
   - This will allow you to skip adding all of the tests manually.
   - However, if adding the sequence does not work, these are the steps to manually add each test.
 
+### Record
 
+#### Trial 1: Walk
+- Under the “Walk” tab, click +Add Condition
+- Condition Name: Trial 1: Walk 
+- Duration: 0
+- Countdown(s): 3
+- Check “Play Default Audio Cues” 
+
+*Subject Instructions*
+- Start standing in front of the chair and begin walking forward on your own
+- You can go once you hear the beep and I say 'Start'. Walk forward as quickly and safely as possible
+- When you step inside the square, turn 180 degrees whichever way you prefer and come back and sit down in the chair
+
+*Administrator Instructions*
+- Click the 'Record' button, let the computer countdown from 3. Wait for the beep. Then say 'Start'
+- Participant is standing at the beginning of the trial
+- After the participant is seated at the end, fill in the FOG-ST score sheet and patient meaningfulness survey
 
 
 
