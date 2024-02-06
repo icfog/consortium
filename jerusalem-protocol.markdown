@@ -34,19 +34,25 @@ For task 6 (Doorway), mark the start position on the ground 2m on one side of a 
 
 For dual-task trials, use the audio file provided, and instruct the participants to say out loud the tone (‘high’ or ‘low’) not the word as sometimes the tones and words will match and sometimes they will not. The goal is to only recite the tone. Please have the patient practice this while seated prior to commencing the protocol. If unable to complete this after two practice trails, please modify the task to only recite the word and ignore the tone. For the final calibration trial, participants will be asked to complete two 10m walks. Please indicate with tape on the floor a 10 m distance.
 
-### Space Requirements & Set-up 
+### Set-up
 
-#### Equipment
+#### Gather Equipment
 
 Refer to the image below to identify equipment needed:
 
 ![Figure 3](images/jp-test-03.png)
 
-#### Connect the sensors
+#### Connect the sensors and start Mobility Lab
 
-Connect the Access Point to the docking station using a Micro USB cable. Connect the external power adapter to the Docking Station and plug it into a power outlet. Connect the Docking Station to your computer using a Micro USB cable. Plug the Opals into the Docking Station in any order, with the port facing down. The Docking Station and Access Point should have a green light when powered on. 
-Insert the provided USB drive into your computer to set up the software. 
-Double click the setup file. This will guide you through the installation process. After the installation process, click on the Mobility Lab application to launch the program. 
+1. Connect the Access Point to the docking station using a Micro USB cable.
+2. Connect the external power adapter to the Docking Station and plug it into a power outlet.
+3. Connect the Docking Station to your computer using a Micro USB cable.
+4. Plug the Opals into the Docking Station in any order, with the port facing down. The Docking Station and Access Point should have a green light when powered on.
+5. If installing Mobility Lab for the first time:
+  - Insert the provided USB drive into your computer to set up the software.
+  - Double click the setup file.
+  - This will guide you through the installation process.
+6. After the installation process, click on the Mobility Lab application to launch the program. 
 
 #### Configure Sensors for Recording
 
