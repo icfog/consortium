@@ -92,12 +92,14 @@ Refer to the image below to identify equipment needed:
 1. Configure Tests and Conditions
   – Add, edit, and delete custom tests and test conditions. 
   - This is where each of the eight trials will be added. 
+![Figure 7](images/jp-test-07.png)
 2. Import a test sequence
   - Test sequences can be imported into the application.
   - In the top right hand corner, select the ‘Import Sequence’ button and select the FOG-ST sequence from finder. This will be sent along with other ICFOG documentation.
   - All 8 tests will automatically be added to the Tests and Conditions tab under the Walk and 360 degree turn tab.  
   - This will allow you to skip adding all of the tests manually.
   - However, if adding the sequence does not work, these are the steps to manually add each test.
+![Figure 8](images/jp-test-08.png)
 
 ### Record
 
@@ -117,6 +119,8 @@ Refer to the image below to identify equipment needed:
 - Click the 'Record' button, let the computer countdown from 3. Wait for the beep. Then say 'Start'
 - Participant is standing at the beginning of the trial
 - After the participant is seated at the end, fill in the FOG-ST score sheet and patient meaningfulness survey
+
+![Figure 9](images/jp-test-09.png)
 
 
 
