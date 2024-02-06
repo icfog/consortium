@@ -19,11 +19,12 @@
 # in the templates via {{ site.myvariable }}.
 
 title: International Consortium for Freezing of Gait
-email: lucas@dbmi.emory.edu
+email: international.consortium.for.fog@gmail.com
 description: Moving forward on a mysterious clinical phenomenon
 baseurl: "/consortium" # the subpath of your site, e.g. /blog
 url: "https://icfog.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  icfog
+twitter_username: fogconsortium
 
 # Build settings
 theme: minima
