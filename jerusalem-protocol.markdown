@@ -48,7 +48,7 @@ Connect the Access Point to the docking station using a Micro USB cable. Connect
 Insert the provided USB drive into your computer to set up the software. 
 Double click the setup file. This will guide you through the installation process. After the installation process, click on the Mobility Lab application to launch the program. 
 
-#### Configuring Sensors for Recording
+#### Configure Sensors for Recording
 
 1. Name Your Subject Group
   - Open the Mobility Lab application. Click the icon in the top right-hand corner to name your subject group. 
@@ -57,7 +57,7 @@ Double click the setup file. This will guide you through the installation proces
     
 ![Figure 4](images/jp-test-04.png)
 
-1. Configure Hardware
+2. Configure Hardware
   - Navigate to the “Hardware Configuration” tab across the top indicated by a wrench icon.
   - Assign Opals to a body site location by dragging from the Available Sensors list and dropping on the human model. 
   - The sensors will now show in the Assigned Sensors list. 
@@ -72,22 +72,21 @@ Double click the setup file. This will guide you through the installation proces
 
 ![Figure 5](images/jp-test-05.png)
 
-1. Configure Options
+3. Configure Options
   -	The “Options” tab across the top of the application indicated by the three vertical lines shows all of the display options in the system for a selected subject group. 
-1. Configure Metric Groups
+4. Configure Metric Groups
   - Metric groups change which metrics are displayed in the test results window and add custom metric groups for each test.
   -	Keep all of the default boxes selected for the “Walk” tab as shown below.
   -	Keep all boxes selected for the “360 Degree Turn” tab as well. 
 
 ![Figure 6](images/jp-test-06.png)
 
-#### Software configuration for testing
+#### Prepare to Record
 
 1. Configure Tests and Conditions
   – Add, edit, and delete custom tests and test conditions. 
   - This is where each of the eight trials will be added. 
-
-1. Import a test sequence
+2. Import a test sequence
   - Test sequences can be imported into the application.
   - In the top right hand corner, select the ‘Import Sequence’ button and select the FOG-ST sequence from finder. This will be sent along with other ICFOG documentation.
   - All 8 tests will automatically be added to the Tests and Conditions tab under the Walk and 360 degree turn tab.  
@@ -98,7 +97,4 @@ Double click the setup file. This will guide you through the installation proces
 
 
 
-
-
-![Figure 5](images/jp-test-05.png)
 
