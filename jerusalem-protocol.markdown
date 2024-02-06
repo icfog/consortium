@@ -21,7 +21,7 @@ Two video cameras on tripods are recommended to record the entirety of each test
 
 ### Space Requirements & Set-up 
 
-##### Kit Included:
+#### Kit Included:
 Tape, Bluetooth speaker, Box stencil, distance string, measuring tape
 
 Use tape (2.54 cm wide green painters) to mark two squares on the floor (the inside of the box measures 50cm x 50cm), one for the first 5 tasks and one square for walking through a doorway and turning 180 deg. Masking tape square on the floor (50cm x 50 cm) should be at least 30 cm clearance from a wall. Place a chair (with arms) 3m distance from the square for resting between trials when needed and to evaluate FOG during turn to sit maneuver. Place camera 1 (frontal facing) 3m behind the box centered with the chair and be sure the entire subject is in view, including feet during the turn. Place camera 2 (optional, sagittal facing) and 3m to [either] side of the route. Ensure that the camera field of view can view the participants feet and shoulders throughout all parts of the trial.
@@ -36,13 +36,13 @@ For dual-task trials, use the audio file provided, and instruct the participants
 
 ### Space Requirements & Set-up 
 
-##### Equipment
+#### Equipment
 
 Refer to the image below to identify equipment needed:
 
 ![Figure 3](images/jp-test-03.png)
 
-##### Connect the sensors
+#### Connect the sensors
 
 Connect the Access Point to the docking station using a Micro USB cable. Connect the external power adapter to the Docking Station and plug it into a power outlet. Connect the Docking Station to your computer using a Micro USB cable. Plug the Opals into the Docking Station in any order, with the port facing down. The Docking Station and Access Point should have a green light when powered on. 
 Insert the provided USB drive into your computer to set up the software. 
