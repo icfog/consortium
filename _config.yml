@@ -21,8 +21,8 @@
 title: International Consortium for Freezing of Gait
 email: lucas@dbmi.emory.edu
 description: Moving forward on a mysterious clinical phenomenon
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://jlucasmckay.github.io/consortium/" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/consortium" # the subpath of your site, e.g. /blog
+url: "https://jlucasmckay.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
 
