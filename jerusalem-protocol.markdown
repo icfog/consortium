@@ -50,14 +50,14 @@ Double click the setup file. This will guide you through the installation proces
 
 #### Configuring Sensors for Recording
 
-- Name Your Subject Group
+1. Name Your Subject Group
   - Open the Mobility Lab application. Click the icon in the top right-hand corner to name your subject group. 
   - Click “+ Add New” from the drop-down menu. Name the new Subject Group FOG-ST. 
   - All new subjects will be added to the FOG-ST subject group.
     
 ![Figure 4](images/jp-test-04.png)
 
-- Hardware Configuration
+1. Configure Hardware
   - Navigate to the “Hardware Configuration” tab across the top indicated by a wrench icon.
   - Assign Opals to a body site location by dragging from the Available Sensors list and dropping on the human model. 
   - The sensors will now show in the Assigned Sensors list. 
@@ -72,15 +72,27 @@ Double click the setup file. This will guide you through the installation proces
 
 ![Figure 5](images/jp-test-05.png)
 
-- Options
+1. Configure Options
   -	The “Options” tab across the top of the application indicated by the three vertical lines shows all of the display options in the system for a selected subject group. 
-- Metric Groups – change which metrics are displayed in the test results window and add custom metric groups for each test.
+1. Configure Metric Groups
+  - Metric groups change which metrics are displayed in the test results window and add custom metric groups for each test.
   -	Keep all of the default boxes selected for the “Walk” tab as shown below.
   -	Keep all boxes selected for the “360 Degree Turn” tab as well. 
 
 ![Figure 6](images/jp-test-06.png)
 
+#### Software configuration for testing
 
+1. Configure Tests and Conditions
+  – Add, edit, and delete custom tests and test conditions. 
+  - This is where each of the eight trials will be added. 
+
+1. Import a test sequence
+  - Test sequences can be imported into the application.
+  - In the top right hand corner, select the ‘Import Sequence’ button and select the FOG-ST sequence from finder. This will be sent along with other ICFOG documentation.
+  - All 8 tests will automatically be added to the Tests and Conditions tab under the Walk and 360 degree turn tab.  
+  - This will allow you to skip adding all of the tests manually.
+  - However, if adding the sequence does not work, these are the steps to manually add each test.
 
 
 
