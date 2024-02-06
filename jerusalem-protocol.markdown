@@ -40,6 +40,8 @@ For dual-task trials, use the audio file provided, and instruct the participants
 
 Refer to the image below to identify equipment needed:
 
+![Figure 3](images/jp-test-03.png)
+
 ##### Connect the sensors
 
 Connect the Access Point to the docking station using a Micro USB cable. Connect the external power adapter to the Docking Station and plug it into a power outlet. Connect the Docking Station to your computer using a Micro USB cable. Plug the Opals into the Docking Station in any order, with the port facing down. The Docking Station and Access Point should have a green light when powered on. 
