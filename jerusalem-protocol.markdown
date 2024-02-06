@@ -50,19 +50,36 @@ Double click the setup file. This will guide you through the installation proces
 
 #### Configuring Sensors for Recording
 
-Name Your Subject Group
-- Open the Mobility Lab application. Click the icon in the top right-hand corner to name your subject group. 
-- Click “+ Add New” from the drop-down menu. Name the new Subject Group FOG-ST. 
-- All new subjects will be added to the FOG-ST subject group.
+- Name Your Subject Group
+  - Open the Mobility Lab application. Click the icon in the top right-hand corner to name your subject group. 
+  - Click “+ Add New” from the drop-down menu. Name the new Subject Group FOG-ST. 
+  - All new subjects will be added to the FOG-ST subject group.
 
 ![Figure 4](images/jp-test-04.png)
 
-Hardware Configuration
-- Navigate to the “Hardware Configuration” tab across the top indicated by a wrench icon.
-- Assign Opals to a body site location by dragging from the Available Sensors list and dropping on the human model. 
-- The sensors will now show in the Assigned Sensors list. 
-- For this protocol, sensors will be placed on:
-  -	Left and right shins (facing forward above the lateral and medial malleolus of the ankle)
+- Hardware Configuration
+  - Navigate to the “Hardware Configuration” tab across the top indicated by a wrench icon.
+  - Assign Opals to a body site location by dragging from the Available Sensors list and dropping on the human model. 
+  - The sensors will now show in the Assigned Sensors list. 
+  - For this protocol, sensors will be placed on:
+    -	Left and right shins (facing forward above the lateral and medial malleolus of the ankle)
+    -	Left and right feet (dorsal, proximal surface – atop the place you would tie shoe laces)
+    -	Lower back (L5)
+  - The sensors assigned to the wrist will have to be re-assigned to the shins. This can be done using the Custom Sensor Assignments fields. 
+    -	Put the sensor serial number in the “Sensor” category and put “Left Shin” and “Right Shin” as the Display Label. 
+  -	The Chest sensor can be removed from the docking station since it will not be used during this assessment. Click the small “x” beside the sternum label to remove it from configuration. 
+  -	Once the sensors are configured, select “Apply Configuration”. 
+- Options
+  -	The “Options” tab across the top of the application indicated by the three vertical lines shows all of the display options in the system for a selected subject group. 
+- Metric Groups – change which metrics are displayed in the test results window and add custom metric groups for each test.
+  -	Keep all of the default boxes selected for the “Walk” tab as shown below.
+  -	Keep all boxes selected for the “360 Degree Turn” tab as well. 
+
+
+
+
+
+
 
 ![Figure 5](images/jp-test-05.png)
 
