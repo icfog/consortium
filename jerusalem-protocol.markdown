@@ -86,5 +86,7 @@ Double click the setup file. This will guide you through the installation proces
 
 
 
+
+
 ![Figure 5](images/jp-test-05.png)
 
