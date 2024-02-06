@@ -4,7 +4,7 @@ title: Jerusalem Protocol
 permalink: /jerusalem-protocol/
 ---
 
-This document contains best practices for evaluating FOG according to the *Jerusalem Protocol*.
+This document contains draft best practices for evaluating FOG according to the *Jerusalem Protocol*. This document differs from the final accepted version and is for reference only.
 
 ## Instrumentation
 
